@@ -5,10 +5,10 @@ export default {
   audioSrc: "",
   surpriseImage: "11.png",        // image shown when she taps the Uttara button (put the file in /public)                   // optional: path to an mp3 you own, e.g. "song.mp3" (never autoplays)
   music: [                        // add legit links (YouTube / Spotify / Weverse etc.). Leave url "" to show a placeholder
-    { title:"Her BTS song #1", url:"" },
-    { title:"Her BTS song #2", url:"" },
-    { title:"Her Rabindra Sangeet #1", url:"" },
-    { title:"Her Rabindra Sangeet #2", url:"" }
+    { title:"Dedicating Song #1", url:"https://youtu.be/TpLOTXd7djw?si=AFq0Sh8w2C1eMUiX" },
+    { title:"Dedicating Song #2", url:"https://youtu.be/P6Vlr2AeX60?si=KwxpQlMWbo8lPcCZ" },
+    { title:"Dedicating Song #3", url:"https://youtu.be/2nIiXg5DvH8?si=YOnUEHeFoJSV1bBs" },
+    { title:"Dedicating Song #4", url:"https://youtu.be/uPMLAdoGU0k?si=7wNq_-fQsCeUS-5V" }
   ],
   // Replace src with your photo path or URL (e.g. "photos/1.jpg"). Leave "" to keep the placeholder.
   photos: [
